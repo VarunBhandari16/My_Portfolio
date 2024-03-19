@@ -1,23 +1,68 @@
-My Portfolio Website
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+  <style>
+    @keyframes hi  {
+        0% { transform: rotate( 0.0deg) }
+       10% { transform: rotate(14.0deg) }
+       20% { transform: rotate(-8.0deg) }
+       30% { transform: rotate(14.0deg) }
+       40% { transform: rotate(-4.0deg) }
+       50% { transform: rotate(10.0deg) }
+       60% { transform: rotate( 0.0deg) }
+      100% { transform: rotate( 0.0deg) }
+    }
 
-Welcome to my portfolio website repository! This website serves as a showcase of my skills, projects, and experiences in the field of data analysis, visualization, and web development.
+    @keyframes gradient {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+    }
 
-# Features:
+    .container {
+      background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
 
-- **Project Showcase:** Explore a collection of my data analysis and visualization projects, including COVID-19 dashboards, movie correlation analysis, and more.
-- **Interactive Visualizations:** Dive into interactive visualizations and insights generated from real-world datasets, providing a glimpse into my analytical capabilities.
-- **Professional Experience:** Learn about my professional background, including education, work experience, and skills in data analysis tools and programming languages.
-- **Contact Information:** Reach out to me directly through the contact form or connect with me on LinkedIn and GitHub to discuss collaboration opportunities or inquire about my projects.
+      width: 100%;
+      height: 300px;
 
-# Technologies Used:
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Django
-- **Data Visualization:** Tableau, Power BI
-- **Database:** SQLite
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    }
 
-# Visit My Portfolio:
+    .hi {
+      animation: hi 1.5s linear -0.5s infinite;
+      display: inline-block;
+      transform-origin: 70% 70%;
+    }
 
-Explore my portfolio website to learn more about my projects, skills, and experiences. Feel free to reach out if you have any questions or would like to collaborate on a project.
+    @media (prefers-reduced-motion) {
+      .container {
+        animation: none;
+      }
 
-[Visit Portfolio Website](https://varunbhandari16.github.io/MyPortfolio/)
+      .hi {
+        animation: none;
+      }
+    }
+  </style>
+
+  <div class="container">
+    <h1>Hi there, my name is Varun <div class="hi">👋</div></h1>
+  </div>
+</div>
+</foreignObject>
+</svg>
+
+
