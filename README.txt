@@ -1,32 +1,23 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<h2>My Portfolio Website</h2>
 
+Welcome to my portfolio website repository! This website serves as a showcase of my skills, projects, and experiences in the field of data analysis, visualization, and web development.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+<h4>Features</h4>:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- **Project Showcase:** Explore a collection of my data analysis and visualization projects, including COVID-19 dashboards, movie correlation analysis, and more.
+- **Interactive Visualizations:** Dive into interactive visualizations and insights generated from real-world datasets, providing a glimpse into my analytical capabilities.
+- **Professional Experience:** Learn about my professional background, including education, work experience, and skills in data analysis tools and programming languages.
+- **Contact Information:** Reach out to me directly through the contact form or connect with me on LinkedIn and GitHub to discuss collaboration opportunities or inquire about my projects.
 
-(* = not included)
+<h4>Technologies Used</h4>:
 
-AJ
-aj@lkn.io | @ajlkn
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python, Django
+- **Data Visualization:** Tableau, Power BI
+- **Database:** SQLite
 
+<h4>Visit My Portfolio<h4>:
 
-Credits:
+Explore my portfolio website to learn more about my projects, skills, and experiences. Feel free to reach out if you have any questions or would like to collaborate on a project.
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+[Visit Portfolio Website](https://varunbhandari16.github.io/MyPortfolio/)
