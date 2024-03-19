@@ -20,4 +20,4 @@ Welcome to my portfolio website repository! This website serves as a showcase of
 
 Explore my portfolio website to learn more about my projects, skills, and experiences. Feel free to reach out if you have any questions or would like to collaborate on a project.
 
-[Visit Portfolio Website](https://varunbhandari16.github.io/MyPortfolio/)
+[Visit Portfolio Website](https://varunbhandari16.github.io/My_Portfolio/)
